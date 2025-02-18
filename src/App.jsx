@@ -5,7 +5,9 @@ import DashboardContent from "./components/DashboardContent";
 import AddCourse from "./components/AddCourse"
 // import EnrolledCourses from "./components/EnrolledCourses"; // To be implemented later
 
+
 function App() {
+
   return (
     <Router>
       <Routes>

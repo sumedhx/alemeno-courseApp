@@ -5,3 +5,19 @@
   box-sizing: border-box;
   font-family: 'Arial', sans-serif;
 }
+
+.course-container{
+  max-height: 85vh;
+  overflow: scroll;
+  position: relative;
+  gap: 2rem;
+}
+.searchBar{
+  position: fixed;
+}
+
+
+/* DhashboardContant.jsx  */
+.newCourse h1{
+  margin-top: 1rem;
+}
